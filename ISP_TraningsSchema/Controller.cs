@@ -7,10 +7,10 @@ namespace ISP_TraningsSchema
 {
     class Controller
     {
-ouyuygjyugyu
+
         private DAL dataAccess;
         string testar;
         
     }
 }
-opuopbgyio
+
