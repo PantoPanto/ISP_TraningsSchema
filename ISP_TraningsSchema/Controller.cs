@@ -9,6 +9,7 @@ namespace ISP_TraningsSchema
     {
 
         private DAL dataAccess;
+        string testar;
         
     }
 }
